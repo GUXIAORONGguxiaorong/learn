@@ -11,6 +11,7 @@
     "test": "__tests__",
     "classnames": "^2.2.6"
   },
+  
   "files": [
     "lib"
   ],
@@ -24,5 +25,5 @@
   "bugs": {
     "url": "https://github.com/GUXIAORONGguxiaorong/learn/issues"
   },
-  "gitHead": "a2e909e1c037767c068f44c851bdf2db29639396"
+  "gitHead": "b9507d979957f1a5ca9526a2b6dcf408406ff286"
 }
